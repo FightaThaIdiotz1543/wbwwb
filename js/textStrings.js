@@ -5,7 +5,7 @@
 var textStrings_EN = {
 	// Act 1
 	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
+	"outtaHere": "yeah git on outta here newbs",
 	"getARoom": "GROSS, GO GET A ROOM",
 	"notCoolAnymore": "nvm hats aren't cool anymore",
 	"tvOnTv": "A TV... ON TV!",
